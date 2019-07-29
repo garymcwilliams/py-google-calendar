@@ -9,6 +9,11 @@ google-auth-httplib2 = "*"
 google-auth-oauthlib = "*"
 
 [dev-packages]
+black = "*"
+rope = "*"
 
 [requires]
 python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

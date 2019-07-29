@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "env\\Scripts\\python.exe",
-    "python.formatting.provider": "autopep8"
+    "python.pythonPath": "C:\\Users\\gmcwilliams\\.virtualenvs\\py-google-calendar-TmX6WMY5\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
 }
