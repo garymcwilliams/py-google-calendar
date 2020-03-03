@@ -103,4 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 client_secret_py-google-calendar.json
+
+# App specific
 token.pickle
+token.json
